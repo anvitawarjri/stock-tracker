@@ -1,0 +1,37 @@
+[
+  {
+    "directory": "/Users/anvitawarjri/stocktracker",
+    "command": "gcc -Wall -Wextra -O2 -pthread -I/opt/homebrew/opt/openssl@3/include -c server.c",
+    "file": "server.c"
+  },
+  {
+    "directory": "/Users/anvitawarjri/stocktracker",
+    "command": "gcc -Wall -Wextra -O2 -pthread -I/opt/homebrew/opt/openssl@3/include -c ws.c",
+    "file": "ws.c"
+  },
+  {
+    "directory": "/Users/anvitawarjri/stocktracker",
+    "command": "gcc -Wall -Wextra -O2 -pthread -I/opt/homebrew/opt/openssl@3/include -c db.c",
+    "file": "db.c"
+  },
+  {
+    "directory": "/Users/anvitawarjri/stocktracker",
+    "command": "gcc -Wall -Wextra -O2 -pthread -I/opt/homebrew/opt/openssl@3/include -c stock.c",
+    "file": "stock.c"
+  },
+  {
+    "directory": "/Users/anvitawarjri/stocktracker",
+    "command": "gcc -Wall -Wextra -O2 -pthread -I/opt/homebrew/opt/openssl@3/include -c auth.c",
+    "file": "auth.c"
+  },
+  {
+    "directory": "/Users/anvitawarjri/stocktracker",
+    "command": "gcc -Wall -Wextra -O2 -pthread -I/opt/homebrew/opt/openssl@3/include -c logger.c",
+    "file": "logger.c"
+  },
+  {
+    "directory": "/Users/anvitawarjri/stocktracker",
+    "command": "gcc -Wall -Wextra -O2 -pthread -I/opt/homebrew/opt/openssl@3/include -c stress_test.c",
+    "file": "stress_test.c"
+  }
+]

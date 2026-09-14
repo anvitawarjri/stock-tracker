@@ -1,0 +1,8 @@
+Starting stress test with 100 normal clients, 5 malicious, 3 abrupt close.
+Running... 1/30sRunning... 2/30sRunning... 3/30sRunning... 4/30sRunning... 5/30sRunning... 6/30sRunning... 7/30sRunning... 8/30sRunning... 9/30sRunning... 10/30sRunning... 11/30sRunning... 12/30sRunning... 13/30sRunning... 14/30sRunning... 15/30sRunning... 16/30sRunning... 17/30sRunning... 18/30sRunning... 19/30sRunning... 20/30sRunning... 21/30sRunning... 22/30sRunning... 23/30sRunning... 24/30sRunning... 25/30sRunning... 26/30sRunning... 27/30sRunning... 28/30sRunning... 29/30sRunning... 30/30s
+Finishing up...
+=== Stress Test Report ===
+Total Messages Received (Normal Clients): 116100
+Average Msgs/Client: 1161.00
+Msgs/Sec/Client (approx): 38.70
+Malicious Clients Rejected: 0/5
